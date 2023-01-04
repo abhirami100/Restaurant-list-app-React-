@@ -1,0 +1,24 @@
+#crd{
+    border-radius: 50px;
+    border-color: azure;
+}
+#rest{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.neighbor{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title{
+
+    font-size: 25px;
+    
+
+}
+#image{
+    border-radius: 10px;
+}
+

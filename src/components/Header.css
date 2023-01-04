@@ -1,0 +1,17 @@
+.head{
+    color:whitesmoke;
+    font-size: 40px;
+}
+
+a{
+    font-size: 30px;
+    font-family: cursive;
+    padding-left: 20px;
+
+}
+a:hover{
+    font-size: 33px;
+    transition: 450ms;
+    color: blanchedalmond;
+
+}
